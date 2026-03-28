@@ -1,1 +1,1 @@
-# apricotty.github.io
+An AI-generated calculator for LNU undergraduates.
