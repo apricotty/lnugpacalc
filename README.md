@@ -4,4 +4,4 @@
 
 由 ApricotTherapy 在 Google Gemini 的帮助下制作，于 2026 年 3 月 28 日上传至 Github Pages。版本 1.4。禁止用于营利目的。
 
-反馈邮箱：20235701107@smail.lnu.edu.cn。开发者不保证对本工具的后续更新及维护。
+开发者不保证对本工具的后续更新及维护。
