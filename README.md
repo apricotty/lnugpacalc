@@ -4,6 +4,6 @@
 
 通过本工具得出的数据不构成任何形式的升学就业建议。
 
-由 ApricotTherapy 在 Google Gemini 的帮助下制作，于 2026 年 3 月 31 日上传至 GitHub Pages。版本 1.5。禁止用于营利目的。
+由 ApricotTherapy 在 Google Gemini 和 DeepSeek 的帮助下制作，于 2026 年 7 月 7 日上传至 GitHub Pages。版本 1.6。禁止用于营利目的。
 
 开发者不保证对本工具的后续更新及维护。
