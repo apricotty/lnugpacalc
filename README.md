@@ -4,6 +4,8 @@
 
 通过本工具得出的数据不构成任何形式的升学就业建议。
 
-由 ApricotTherapy 在 Google Gemini 和 DeepSeek 的帮助下制作，于 2026 年 7 月 7 日上传至 GitHub Pages。版本 1.6。禁止用于营利目的。
+由 @ApricotTherapy 在 Google Gemini 、 DeepSeek 和 Xiaomi MiMo 的帮助下制作，于 2026 年 7 月 15 日上传至 GitHub Pages 和 Netlify。版本 1.8。禁止用于营利目的。
 
-开发者不保证对本工具的后续更新及维护。
+反馈交流：小红书 @ApricotTherapy，电邮 20235701107@smail.lnu.edu.cn。开发者不保证对本工具的后续更新及维护。
+
+版本 1.8 更新日志：着重解决了挂科补考成绩的计算问题，以及新增了添加/编辑课程详情的功能。
